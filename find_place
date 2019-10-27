@@ -1,0 +1,13 @@
+SELECT * FROM google_maps.find_place
+  WHERE input=''
+/*  AND locationbias='<string>'*/
+  AND inputtype='textquery | phonenumber'
+  AND language='<string>'
+  AND fields='<string>'
+  -- The following parameters have been populated with suggested values
+  AND outputFormat='json'
+
+/*
+ * For sample code and reference material, visit
+ * https://www.transposit.com/docs/get-started/sql-quickstart
+ */

@@ -1,4 +1,4 @@
-# weatherplay
+# WeatherPlay - A real-time weather-based Spotify playlist generator for your Bose speakers.
 
 ## Inspiration
 Seasonal Affective Disorder (SAD) is a phenomenon that we have personally faced and know is a widespread issue, especially on college campuses where students may not be used to the climate of their school.  Recent studies have shown promise in the area of utilizing music therapy to treat various types of depression, and we wanted to develop a web application that could help anyone use music as a tool for acclimating and persevering by fetching weather data and control the playing of the resulting customized playlist on any Bose speaker. We wanted to also create a seamless experience for the user, with as little steps as possible to get an appropriate set of tracks playing. Hence we tried to create a UX that requires very little interaction from the user - just getting permissions and access. 
